@@ -1,7 +1,7 @@
 # Udacity_RoboNano_Project5
 Home Service Robot
 
-##Projet
+###Project
 Before run `.sh`,
 ```
 cd catkin_ws
