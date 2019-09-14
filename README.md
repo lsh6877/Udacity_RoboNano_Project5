@@ -1,6 +1,6 @@
 ## Udacity RoboNano Project5 : Home Service Robot
 
-### Project
+### Project Description
 Before run `.sh`,
 ```
 cd catkin_ws
