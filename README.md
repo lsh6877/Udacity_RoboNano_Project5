@@ -1,5 +1,4 @@
-# Udacity_RoboNano_Project5
-Home Service Robot
+## Udacity RoboNano Project5 : Home Service Robot
 
 ###Project
 Before run `.sh`,
